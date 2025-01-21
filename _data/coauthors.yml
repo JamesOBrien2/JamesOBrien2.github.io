@@ -1,14 +1,14 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"cris":
+  - firstname: ["Cristina", "C.", "C. T.", "Cristina Trujillo"]
+    url: www.Trujilloresearchgroup.com
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+"nika":
+  - firstname: ["Nika", "N.", "N. M.", "Nika Melnyk"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"aaron":
+  - firstname: ["Aaron", "A.", "A. T.", "Aaron Trowbridge"]
+    url: https://www.trowbridgegroup.net
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
