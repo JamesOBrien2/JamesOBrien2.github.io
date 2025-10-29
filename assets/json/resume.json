@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Albert james",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "albert@james.de",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Albertjames",
+        "url": "https://twitter.com/Albertjames"
       }
     ]
   },
@@ -63,7 +63,7 @@
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/james/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],

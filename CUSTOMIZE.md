@@ -89,7 +89,7 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Einstein]
+  last_name: [james]
   first_name: [Albert, A.]
 ```
 
