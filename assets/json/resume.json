@@ -1,11 +1,10 @@
 {
   "basics": {
-    "name": "Albert james",
-    "label": "Scientist",
+    "name": "James O'Brien",
+    "label": "PhD Student in Theoretical Chemistry",
     "image": "",
-    "email": "albert@james.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "james.obrien-4@postgrad.manchester.ac.uk",
+    "url": "https://jamesobrien02.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
