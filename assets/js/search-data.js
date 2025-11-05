@@ -79,7 +79,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-a-post-about-correcting-typical-gaussian16-errors",
+      
+        title: "A post about correcting typical Gaussian16 Errors",
+      
+      description: "This is a post describing recommended steps for correcting typical Gaussian16 Errors",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/gaussian-errors/";
+        
+      },
+    },{id: "post-a-post-about-performing-nci-plots-for-macos",
+      
+        title: "A post about performing NCI plots for MacOS",
+      
+      description: "This is a post describing the steps needed to succesfully perform an NCI plot on a MacOS system.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/nci-plots/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
