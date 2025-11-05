@@ -123,16 +123,14 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-published-computational-design-of-bidentate-hypervalent-iodine-catalysts-in-halogen-bond-mediated-organocatalysis-in-chemphyschem",
+          title: 'Published “Computational Design of Bidentate Hypervalent Iodine Catalysts in Halogen Bond‐Mediated Organocatalysis” in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-published-oxenoid-reactivity-enabled-by-targeted-photoactivation-of-periodate-in-angewandte-chemie",
+          title: 'Published “Oxenoid reactivity enabled by targeted photoactivation of periodate” in Angewandte Chemie!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-preprint-computational-aided-design-of-neutral-chiral-bidentate-tellurium-triazoles-for-enantioselective-chalcogen-bonding-catalysis-uploaded-to-chemrxiv",
+          title: 'Preprint “Computational-aided Design of Neutral Chiral Bidentate Tellurium-Triazoles for Enantioselective Chalcogen-Bonding Catalysis” uploaded...',
           description: "",
           section: "News",},{id: "projects-chalcogen-bonding",
           title: 'Chalcogen Bonding',
