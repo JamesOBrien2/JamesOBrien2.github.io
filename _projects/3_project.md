@@ -3,7 +3,6 @@ layout: page
 title: Mechanistic Elucidation
 description: 
 img: assets/img/7.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
