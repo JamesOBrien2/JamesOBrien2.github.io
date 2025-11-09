@@ -2,7 +2,7 @@
 layout: page
 title: Chalcogen Bonding
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/projects/chalcogen_bonding.png
 importance: 1
 category: work
 related_publications: true
