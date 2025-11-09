@@ -2,7 +2,7 @@
 layout: page
 title: Mechanistic Elucidation
 description: 
-img: assets/img/7.png
+img: assets/img/projects/mechanistic_elucidation.png
 importance: 3
 category: work
 ---
