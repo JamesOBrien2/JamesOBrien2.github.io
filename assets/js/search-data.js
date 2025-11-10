@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-about-correcting-typical-gaussian16-errors",
+        },{id: "post-a-post-about-calculating-boltzmann-populations-for-chemical-ensembles",
       
-        title: "A post about correcting typical Gaussian16 Errors",
+        title: "A post about calculating Boltzmann Populations for chemical ensembles",
       
       description: "This is a post describing the steps required for calculating Boltzmann Populations for chemcial ensembles.",
       section: "Posts",
