@@ -71,11 +71,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
    - Wrong functional or basis-set
    - Missing key words
 
-3. If you are struggling to locate a TS it may be worthwile to check our [TS tutorial](../../tutorials/TS/README.md).
-
-4. Don't be afraid to ask for help from people who may be familiar with your systems or your procedure/methodology
-
-5. Lastly, sometimes what you're looking for just may not exist! Oftentimes TS are non-existent, and this is worthwhile considering, and is a result in itself!
+3. Lastly, sometimes what you're looking for just may not exist! Oftentimes TS are non-existent, and this is worthwhile considering, and is a result in itself!
 
 # L1
 
