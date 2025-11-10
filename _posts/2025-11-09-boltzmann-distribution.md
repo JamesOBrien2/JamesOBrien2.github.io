@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A post about correcting typical Gaussian16 Errors
-date: 2025-09-05 14:13:00
+title: A post about calculating Boltzmann Populations for chemical ensembles
+date: 2025-10-05 14:13:00
 description: This is a post describing the steps required for calculating Boltzmann Populations for chemcial ensembles.
 tags: Tutorial
 categories: tutorials
