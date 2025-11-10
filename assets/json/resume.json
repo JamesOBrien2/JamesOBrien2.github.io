@@ -85,12 +85,7 @@
     {
       "name": "Chemistry",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Organic Chemistry",
-        "Molecular Modelling",
-        "Mechanistic Elucidation",
-        "Noncovalent Interactions"
-      ]
+      "keywords": ["Organic Chemistry", "Molecular Modelling", "Mechanistic Elucidation", "Noncovalent Interactions"]
     }
   ],
   "references": [
