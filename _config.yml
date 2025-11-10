@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: JOBlog # blog_name will be displayed in your blog page
+blog_description: some simple comp. chem. tutorials/troubleshooting info brought to you in the form of a low effort blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
