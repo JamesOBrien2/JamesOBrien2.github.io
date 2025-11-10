@@ -50,5 +50,3 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.liquid loading="eager" path="assets/img/projects/coop.png" title="Example of halogen-bond catalyst-based complexes visualised using Blender" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-{% endraw %}
