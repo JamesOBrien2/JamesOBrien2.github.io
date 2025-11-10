@@ -67,7 +67,6 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 1. Consider these results. Although they may not be what you expected, it is important to remain unbiased in your study.
 
 2. Sometimes your input is wrong, but not in a way that will generate an error. Examples include:
-
    - Incorrect initial geometry
    - Wrong functional or basis-set
    - Missing key words
@@ -427,7 +426,6 @@ _Performs NBO analyses_
 **Solution:** Consider the following:
 
 1. If you are using Effective Core Potentials:
-
    - Ensure the mentioned atom is included at the bottom of your input file
 
 2. Ensure your basis-set includes all atoms in your system
