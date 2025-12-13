@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A post about correcting typical Gaussian16 Errors
+title: Correcting typical Gaussian16 Errors
 date: 2025-06-05 14:13:00
 description: This is a post describing recommended steps for correcting typical Gaussian16 Errors
 tags: Troubleshooting, Tutorial
