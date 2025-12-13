@@ -44,9 +44,31 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-about-calculating-boltzmann-populations-for-chemical-ensembles",
+        },{id: "post-calculating-reaction-rates-using-eyring-theory",
       
-        title: "A post about calculating Boltzmann Populations for chemical ensembles",
+        title: "Calculating Reaction Rates using Eyring Theory",
+      
+      description: "This is a post describing the steps required for calculating Reaction Rates using Eyring Theory.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Eyring-theory/";
+        
+      },
+    },{id: "post-calculating-binding-energies-and-interaction-energies",
+      
+        title: "Calculating Binding Energies and Interaction Energies",
+      
+      description: "This is a post describing the steps required for calculating Binding and Interaction energies for complexes.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Binding-and-Interaction-Energies/";
+        
+      },
+    },{id: "post-calculating-boltzmann-populations-for-chemical-ensembles",
+      
+        title: "Calculating Boltzmann Populations for chemical ensembles",
       
       description: "This is a post describing the steps required for calculating Boltzmann Populations for chemcial ensembles.",
       section: "Posts",
@@ -55,9 +77,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/boltzmann-distribution/";
         
       },
-    },{id: "post-a-post-about-correcting-typical-gaussian16-errors",
+    },{id: "post-correcting-typical-gaussian16-errors",
       
-        title: "A post about correcting typical Gaussian16 Errors",
+        title: "Correcting typical Gaussian16 Errors",
       
       description: "This is a post describing recommended steps for correcting typical Gaussian16 Errors",
       section: "Posts",
@@ -66,9 +88,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/gaussian-errors/";
         
       },
-    },{id: "post-a-post-about-performing-nci-plots-for-macos",
+    },{id: "post-performing-nci-plots-for-macos",
       
-        title: "A post about performing NCI plots for MacOS",
+        title: "Performing NCI plots for MacOS",
       
       description: "This is a post describing the steps needed to succesfully perform an NCI plot on a MacOS system.",
       section: "Posts",
