@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-calculating-rotational-barriers",
+        },{id: "post-calculating-and-visualising-moore-o-39-ferrall-jencks-plots",
+      
+        title: "Calculating and visualising Moore O&#39;Ferrall Jencks Plots",
+      
+      description: "This is a post describing the steps required for calculating and visualising 2D potential energy surfaces known as Moore O&#39;Ferrall Jencks Plots.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Moore-O'Ferrall-Jencks-Plot/";
+        
+      },
+    },{id: "post-calculating-rotational-barriers",
       
         title: "Calculating Rotational Barriers",
       
