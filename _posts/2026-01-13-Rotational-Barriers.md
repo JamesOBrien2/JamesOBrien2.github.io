@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Calculating Rotational Barriers
+title: Calculating Rotational Barriers (1D Dihedral Scans)
 date: 2026-01-13 11:58:00
 description: This is a post describing the steps involved in calculating rotational barriers via dihedral bond rotations.
 tags: Tutorial
 categories: tutorials
 ---
+
+# Important
+
+Although this tutorial is applied to complex systems, This tutorial details the simplified 1D PES scan of a dihedral angle to obtain rotational barriers. For more complex systems involving multiple dihedral angles, please refer to the Moore O'Ferrall Jencks Plot tutorial.
 
 # Finding the correct dihedral angle
 
