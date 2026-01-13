@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-calculating-reaction-rates-using-eyring-theory",
+        },{id: "post-calculating-rotational-barriers",
+      
+        title: "Calculating Rotational Barriers",
+      
+      description: "This is a post describing the steps involved in calculating rotational barriers via dihedral bond rotations.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Rotational-Barriers/";
+        
+      },
+    },{id: "post-calculating-reaction-rates-using-eyring-theory",
       
         title: "Calculating Reaction Rates using Eyring Theory",
       
