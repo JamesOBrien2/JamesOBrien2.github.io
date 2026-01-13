@@ -52,12 +52,23 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
+          window.location.href = "/blog/2026/Moore-OFerrall-Jencks-Plot/";
+        
+      },
+    },{id: "post-calculating-and-visualising-moore-o-39-ferrall-jencks-plots",
+      
+        title: "Calculating and visualising Moore O&#39;Ferrall Jencks Plots",
+      
+      description: "This is a post describing the steps required for calculating and visualising 2D potential energy surfaces known as Moore O&#39;Ferrall Jencks Plots.",
+      section: "Posts",
+      handler: () => {
+        
           window.location.href = "/blog/2026/Moore-O'Ferrall-Jencks-Plot/";
         
       },
-    },{id: "post-calculating-rotational-barriers",
+    },{id: "post-calculating-rotational-barriers-1d-dihedral-scans",
       
-        title: "Calculating Rotational Barriers",
+        title: "Calculating Rotational Barriers (1D Dihedral Scans)",
       
       description: "This is a post describing the steps involved in calculating rotational barriers via dihedral bond rotations.",
       section: "Posts",
