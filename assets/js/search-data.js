@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-calculating-and-visualising-moore-o-39-ferrall-jencks-plots",
+        },{id: "post-a-brief-and-personal-assessment-of-statistics-and-data-visualisation-in-chemistry",
+      
+        title: "A Brief and Personal Assessment of Statistics and Data Visualisation in Chemistry",
+      
+      description: "This is a post discussing my personal motivation and aims for undertaking a journey through statistics and data visualisation, with a focus on its applications in chemistry and scientific research.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Personal-Assessment-of-Statistics-and-Data-Visualisation/";
+        
+      },
+    },{id: "post-calculating-and-visualising-moore-o-39-ferrall-jencks-plots",
       
         title: "Calculating and visualising Moore O&#39;Ferrall Jencks Plots",
       
