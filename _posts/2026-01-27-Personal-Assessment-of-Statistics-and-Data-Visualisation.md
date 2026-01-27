@@ -17,4 +17,4 @@ Data visualisation is the other half of the problem. Even strong results can be 
 
 This blog series is my personal attempt to get better at both: practical statistics for scientific decision-making, and simple, readable visualisation habits I can use in my own work and hopefully share with others doing similar research.
 
-![Statistical Analysis Example](../assets/img/blogs/example_statistical_analysis_linear_regression_pastel.png)
+![Statistical Analysis Example]({{ '/assets/img/blogs/example_statistical_analysis_linear_regression_pastel.png' | relative_url }})
