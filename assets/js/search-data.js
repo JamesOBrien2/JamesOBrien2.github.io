@@ -52,17 +52,6 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/Charge-Transfer-Effects-on-Arene-Structures/";
-        
-      },
-    },{id: "post-a-brief-discussion-on-eda-complexation-and-charge-transfer-effects-in-arene-based-complexes",
-      
-        title: "A Brief Discussion on EDA Complexation and Charge-Transfer Effects in Arene-based complexes",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
           window.location.href = "/blog/2026/Brief-Discussion-on-EDA-Complexation-and-Charge-Transfer-Effects-in-Aren-based-Complexes/";
         
       },
