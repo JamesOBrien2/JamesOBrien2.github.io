@@ -11,7 +11,7 @@ categories: tutorials
 
 A Moore O'Ferrall Jencks plot requires the complete scan of two variables, resulting in N^2 scaling. In doing so, a 2D plot can be obtained. An exmaple of where this can be beneficial is in catalysis, where for a bidentate catalyst, you may want to scan the rotational energy barrier of both catalytic arms, to identify the total energetic profile of the system for conversion between cis / trans configurations.
 
-![Simplified Dihedral Angle Example]({{ '/assets/img/blogs/dihedral_angle_simplified.png' | relative_url }})
+![Simplified Dihedral Angle Example]({{ '/assets/img/blogs/dihedral_angle_simplified.png' | relative_url }}){: style="width:100%; height:auto;"}
 
 # Calculating the 2D scan
 
@@ -32,4 +32,4 @@ end
 
 Once the 2D scan has been completed, you will have a series of energy values corresponding to each combination of the two scanned variables. To visualise this data, you can use Python with libraries such as NumPy and Matplotlib to create a contour plot or surface plot. I've provided a !(link)[https://github.com/JamesOBrien2/my_scripts/blob/main/plots/plot2d.py] to a python script that can be used to generate these plots below:
 
-![2D Plot example]({{ '/assets/img/blogs/example_2d_pes.png' | relative_url }})
+![2D Plot example]({{ '/assets/img/blogs/example_2d_pes.png' | relative_url }}){: style="width:100%; height:auto;"}

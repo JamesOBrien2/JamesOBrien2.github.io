@@ -79,7 +79,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L1 -->
 
-![Error Example]({{ '/assets/img/blogs/internal_consistency_failure_1_in_R0v08.png' | relative_path }}' | relative_url }})
+![Error Example]({{ '/assets/img/blogs/internal_consistency_failure_1_in_R0v08.png' | relative_path }}' | relative_url }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This is an error due to incorrect input of functional / basis-set
 
@@ -91,7 +91,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L101 -->
 
-![Error Example]({{ '/assets/img/blogs/Coordinate_Type_X_Requires_x_centres.png' | relative_path }}' | relative_url }})
+![Error Example]({{ '/assets/img/blogs/Coordinate_Type_X_Requires_x_centres.png' | relative_path }}' | relative_url }}){: style="width:100%; height:auto;"}
 
 **Explanation:** Incorrect input of modredundandant additional line(s)
 
@@ -111,7 +111,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L101 -->
 
-![Error Example]({{ '/assets/img/blogs/ZSymb.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/ZSymb.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This is an input error. Gaussian is unable to locate the Z-matrix.
 
@@ -121,7 +121,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L101 -->
 
-![Error Example]({{ '/assets/img/blogs/end_of_file_reading_connectivity.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/end_of_file_reading_connectivity.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This is an error that occurs typically when unecessarily including `geom=connectivity`
 **Solution:** Remove `geom=connectivity`
@@ -130,7 +130,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L101 -->
 
-![Error Example]({{ '/assets/img/blogs/name_of_center_too_long.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/name_of_center_too_long.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** More than 3 inputs found for atomic coordinates (x,y,z)
 
@@ -144,7 +144,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L101 -->
 
-![Error Example]({{ '/assets/img/blogs/RedCar_Fails_in_NewRed.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/RedCar_Fails_in_NewRed.png' | relative_path }}){: style="width:100%; height:auto;"}
 **Explanation:** There is an issue with the Redundant coordinates (opt=ModRedundant)
 
 **Solution:** Consider the following
@@ -157,7 +157,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L101 -->
 
-![Error Example]({{ '/assets/img/blogs/wanted_integer_found_string.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/wanted_integer_found_string.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** Gaussian expected an integer but encountered a string. Typically an issue with charge / multiplicity. As these are expected integers
 
@@ -169,7 +169,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L103 -->
 
-![Error Example]({{ '/assets/img/blogs/FormBX_had_a_problem.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/FormBX_had_a_problem.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** Issue regarding internal coordinates. Occasionally occurs when atoms line up linearly during optimisation process.
 
@@ -185,7 +185,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L123 -->
 
-![Error Example]({{ '/assets/img/blogs/Delta-x_Convergence_Not_Met.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/Delta-x_Convergence_Not_Met.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** Failed to converge using default iteration cycles. Often happens in IRC calculations.
 
@@ -203,7 +203,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L301 -->
 
-![Error Example]({{ '/assets/img/blogs/combination_of_multiplicity_and_electrons.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/combination_of_multiplicity_and_electrons.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Solution:** Consider the following
 
@@ -215,7 +215,7 @@ This tutorial aims to provide more specific help for typical Gaussian16 Errors t
 
 <!-- L301 -->
 
-![Error Example]({{ '/assets/img/blogs/end_of_file_reading_basis_center.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/end_of_file_reading_basis_center.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This is an input error and relates to the use of `gen` as the basis set. This error can be typical when using pseudopotentials.
 
@@ -239,7 +239,7 @@ Basis-Set-2
 
 <!-- L301 -->
 
-![Error Example]({{ '/assets/img/blogs/End_of_line_while_reading_PCM_input.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/End_of_line_while_reading_PCM_input.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** PCM is an acronym for Polarizable Continuum Model, a.k.a. solvent modelling. This is an error that occurs typically when using `scrf=read`
 
@@ -253,7 +253,7 @@ Basis-Set-2
 
 <!-- L301 -->
 
-![Error Example]({{ '/assets/img/blogs/EOF_while_reading_ECP_pointer_card.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/EOF_while_reading_ECP_pointer_card.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This error occurs when there is an issue at the end of the file whilst reading the effective core potential.
 
@@ -275,7 +275,7 @@ Basis-Set-2
 
 <!-- L301 -->
 
-![Error Example]({{ '/assets/img/blogs/unable_to_choose_the_S8_parameter.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/unable_to_choose_the_S8_parameter.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This error occurs when there is a mismatch in functional and dispersion. Most commonly occurs when using Minnessota functionals
 
@@ -290,7 +290,7 @@ Basis-Set-2
 
 <!-- L301 -->
 
-![Unrecognised Atomic Symbol Example]({{ '/assets/img/blogs/unrecognised_atomic_symbol.png' | relative_path }})
+![Unrecognised Atomic Symbol Example]({{ '/assets/img/blogs/unrecognised_atomic_symbol.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** This is typically an input error.
 
@@ -326,7 +326,7 @@ _Forms the initial MO guess_
 
 <!-- L401 -->
 
-![Error Example]({{ '/assets/img/blogs/Unable_to_project_occupied_orbitals.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/Unable_to_project_occupied_orbitals.png' | relative_path }}){: style="width:100%; height:auto;"}
 **Explanation:** You are reading in a molecular-orbital guess from the .chk file and an issue is arising between the old .chk basis set, and the new basis set.
 
 **Solution:** Don't read in MOs from the %chk file. Change to a guess keyword which doesn't rely on %chk MOs.
@@ -339,7 +339,7 @@ _Iteratively solves the SCF equations (conven. UHF & ROHF, all direct methods, S
 
 <!-- L502 -->
 
-![Convergence Failure Example]({{ '/assets/img/blogs/convergence_failure.png' | relative_path }})
+![Convergence Failure Example]({{ '/assets/img/blogs/convergence_failure.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** The SCF (self-consistent field) procedure failed to converge.
 
@@ -365,7 +365,7 @@ Else:
 
 <!-- L502 -->
 
-![Error Example]({{ '/assets/img/blogs/Inv3_failed_in_PCMMkU.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/Inv3_failed_in_PCMMkU.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** PCM stands for Polarizable Continuum Model. Therefore this error relates to the solvent model.
 
@@ -379,7 +379,7 @@ _Quadratically convergent SCF program_
 
 <!-- L508 -->
 
-![Error Example]({{ '/assets/img/blogs/No_lower_point_found_run_aborted.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/No_lower_point_found_run_aborted.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** SCF failing to converge when using a QC method.
 
@@ -395,7 +395,7 @@ _Quadratically convergent SCF program_
 
 <!-- L508 -->
 
-![Error Example]({{ '/assets/img/blogs/gradient-too-large-for-newton-raphson-convergence-failure.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/gradient-too-large-for-newton-raphson-convergence-failure.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** SCF failing to converge when using a QC method.
 
@@ -415,7 +415,7 @@ _Performs NBO analyses_
 
 <!-- L607 -->
 
-![Error Example]({{ '/assets/img/blogs/subroutine_NAOANL_could_not_find_orbital.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/subroutine_NAOANL_could_not_find_orbital.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** The chosen basis-set(s) failed to include the mentioned orbital during NBO Analysis.
 
@@ -432,7 +432,7 @@ _Performs NBO analyses_
 
 <!-- L612 -->
 
-![Error Example]({{ '/assets/img/blogs/external_program_failed.png' | relative_path }})
+![Error Example]({{ '/assets/img/blogs/external_program_failed.png' | relative_path }}){: style="width:100%; height:auto;"}
 
 **Explanation:** There is an issue with the external program you are trying to use. (e.g. NBO)
 
