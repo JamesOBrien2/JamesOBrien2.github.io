@@ -71,7 +71,7 @@ $$
 
 This lets us predict trends, as if you make the donor easier to oxidise (lower IP, or lower E<sup>°</sup><sub>ox</sub>), you generally produce a lower energy CT band (longer wavelength), due to the electron transfer inside the complex becoming "less uphill". For example, swapping benzene for anisole produces a redshifted CT band because anisole is a stronger electron donor.
 
-![Redshifted Absorption Band in Complex]({{ '/assets/img/blogs/example_redshifted_CT_band.png' | relative_url }}){: style="width:100%; height:auto;"}
+![Redshifted Absorption Band in Complex]({{ '/assets/img/blogs/example_redshifted_CT_band.png' | relative_url }}){: style="width:60%; height:auto;"}
 
 ## Weak vs. Strong CT complexes
 
