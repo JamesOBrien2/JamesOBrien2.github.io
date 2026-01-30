@@ -88,28 +88,6 @@ ninja.data = [{
           window.location.href = "/blog/2026/Rotational-Barriers/";
         
       },
-    },{id: "post-calculating-reaction-rates-using-eyring-theory",
-      
-        title: "Calculating Reaction Rates using Eyring Theory",
-      
-      description: "This is a post describing the steps required for calculating Reaction Rates using Eyring Theory.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Eyring-theory/";
-        
-      },
-    },{id: "post-calculating-binding-energies-and-interaction-energies",
-      
-        title: "Calculating Binding Energies and Interaction Energies",
-      
-      description: "This is a post describing the steps required for calculating Binding and Interaction energies for complexes.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Binding-and-Interaction-Energies/";
-        
-      },
     },{id: "post-calculating-boltzmann-populations-for-chemical-ensembles",
       
         title: "Calculating Boltzmann Populations for chemical ensembles",
