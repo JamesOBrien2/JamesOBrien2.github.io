@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-brief-and-personal-assessment-of-statistics-and-data-visualisation-in-chemistry",
+        },{id: "post-a-brief-discussion-on-eda-complexation-and-charge-transfer-effects-in-arene-based-complexes",
+      
+        title: "A Brief Discussion on EDA Complexation and Charge-Transfer Effects in Arene-based complexes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Charge-Transfer-Effects-on-Arene-Structures/";
+        
+      },
+    },{id: "post-a-brief-discussion-on-eda-complexation-and-charge-transfer-effects-in-arene-based-complexes",
+      
+        title: "A Brief Discussion on EDA Complexation and Charge-Transfer Effects in Arene-based complexes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Brief-Discussion-on-EDA-Complexation-and-Charge-Transfer-Effects-in-Aren-based-Complexes/";
+        
+      },
+    },{id: "post-a-brief-and-personal-assessment-of-statistics-and-data-visualisation-in-chemistry",
       
         title: "A Brief and Personal Assessment of Statistics and Data Visualisation in Chemistry",
       
