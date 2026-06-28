@@ -32,16 +32,24 @@
             - Sub-description 1.
             - Sub-description 2.
 
-- title: Honors and Awards
+- title: Funding and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - TBD
-        - TBD
-    - year: 2029
-      items:
-        - TBD
+    - title: Best Presentation Prize, Computational Chemistry
+      institution: Department of Chemistry PGR Conference, University of Manchester
+      year: 2026
+      description:
+        - Awarded Best Presentation Prize in the Computational Chemistry section at the annual Postgraduate Research Conference.
+    - title: PhD Studentship — Application of Sigma-Hole Interactions in Organocatalysis
+      institution: University of Manchester, supervised by Dr. Cristina Trujillo
+      year: 2023-2027
+      description:
+        - Funded 3.5-year PhD in Theoretical Chemistry, focusing on the computational study of sigma-hole interactions and their application in organocatalysis.
+    - title: RSC Internship Fund
+      institution: Royal Society of Chemistry / Trujillo Group, University of Manchester
+      year: 2023
+      description:
+        - Funded two-month research internship in the Trujillo Group, studying sigma-hole interactions in organocatalysis.
 
 - title: Academic Interests
   type: nested_list
