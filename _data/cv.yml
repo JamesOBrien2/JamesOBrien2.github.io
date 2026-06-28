@@ -40,7 +40,7 @@
       year: 2026
       description:
         - Awarded Best Presentation Prize in the Computational Chemistry section at the annual Postgraduate Research Conference.
-    - title: PhD Studentship — Application of Sigma-Hole Interactions in Organocatalysis
+    - title: PhD Studentship, Application of Sigma-Hole Interactions in Organocatalysis
       institution: University of Manchester, supervised by Dr. Cristina Trujillo
       year: 2023-2027
       description:
@@ -50,6 +50,34 @@
       year: 2023
       description:
         - Funded two-month research internship in the Trujillo Group, studying sigma-hole interactions in organocatalysis.
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Synthesis of Macrocyclic Peptides via Photochemical Radical Thiol-yne Reaction
+      institution: Journal of the American Chemical Society, 2026
+      year: 2026
+      description:
+        - Williams, C.; Raabe, K.; Tully, D.; Windisch, D.; O'Brien, J.; Trujillo, C.; McGouran, J. F.; Muttenthaler, M.; Scanlan, E. M.
+        - "DOI: 10.1021/jacs.6c08113"
+    - title: Neutral Chiral Bidentate Tellurium-Triazoles for Enantioselective Non-Covalent Chalcogen-Bonding Catalysis
+      institution: Nature Communications, 2026
+      year: 2026
+      description:
+        - Massold, L.; O'Brien, J.; Fengler, K.; Keuper, A. C.; Hidalgo-León, R.; Trujillo, C.; García Mancheño, O.
+        - "DOI: 10.1038/s41467-026-74139-0"
+    - title: Oxenoid Reactivity Enabled by Targeted Photoactivation of Periodate
+      institution: Angewandte Chemie International Edition, 2024
+      year: 2024
+      description:
+        - Bossonnet, A.; Garner, R. A.; O'Brien, J.; Trujillo, C.; Trowbridge, A.
+        - "DOI: 10.1002/anie.202417402"
+    - title: Computational Design of Bidentate Hypervalent Iodine Catalysts in Halogen Bond-Mediated Organocatalysis
+      institution: ChemPhysChem, 2024
+      year: 2024
+      description:
+        - O'Brien, J.; Melnyk, N.; Lee, R. S.; James, M.; Trujillo, C.
+        - "DOI: 10.1002/cphc.202400515"
 
 - title: Academic Interests
   type: nested_list

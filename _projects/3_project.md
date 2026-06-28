@@ -37,5 +37,5 @@ In collaboration with Prof Eoin Scanlan's group (Trinity College Dublin), comput
   </div>
 </div>
 <div class="caption">
-    DFT-optimised structures of three macrocyclic peptide systems produced via photochemical radical thiol–yne cyclisation, illustrating the vinyl sulfide linkage formed under mild irradiation conditions. Collaboration with Prof Eoin Scanlan (Trinity College Dublin).
+    DFT-optimised structures of three macrocyclic peptide systems produced via photochemical radical thiol–yne cyclisation: oxytocin (left), (*Z*)-analogue (middle), and (*E*)-analogue (right). Collaboration with Prof Eoin Scanlan (Trinity College Dublin).
 </div>
