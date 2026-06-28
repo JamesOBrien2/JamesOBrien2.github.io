@@ -8,4 +8,5 @@ github_repos_owned:
 
 github_repos_contributed:
   - aligfellow/xyzrender
+  - aligfellow/xyzgraph
   - jonathandip/orca.vim
