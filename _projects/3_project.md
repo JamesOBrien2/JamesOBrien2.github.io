@@ -29,7 +29,7 @@ In collaboration with Dr Aaron Trowbridge's group (University of Manchester), DF
 
 ## Macrocyclic Peptide Synthesis via Photochemical Radical Thiol–yne Cyclisation
 
-In collaboration with Prof Eoin Scanlan's group (Trinity College Dublin), computational methods were applied to support the development of a photochemical radical thiol–yne strategy for macrocyclic peptide synthesis {% cite williams2026thiolyne %}. DFT calculations were employed to characterise the radical intermediates and transition states governing the intramolecular cyclisation, providing a mechanistic rationale for the observed stereoselectivity and the preferential formation of the (*E*)-vinyl sulfide product under optimised irradiation conditions.
+In collaboration with Prof Eoin Scanlan's group (Trinity College Dublin), computational methods were applied to support the development of a photochemical radical thiol–yne strategy for macrocyclic peptide synthesis {% cite williams2026thiolyne %}. DFT calculations were employed to characterise the radical intermediates and transition states governing the intramolecular cyclisation, providing a mechanistic rationale for the observed stereoselectivity and the preferential formation of the (<i>E</i>)-vinyl sulfide product under optimised irradiation conditions.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
@@ -37,5 +37,5 @@ In collaboration with Prof Eoin Scanlan's group (Trinity College Dublin), comput
   </div>
 </div>
 <div class="caption">
-    DFT-optimised structures of three macrocyclic peptide systems produced via photochemical radical thiol–yne cyclisation: oxytocin (left), (*Z*)-analogue (middle), and (*E*)-analogue (right). Collaboration with Prof Eoin Scanlan (Trinity College Dublin).
+    DFT-optimised structures of three macrocyclic peptide systems produced via photochemical radical thiol–yne cyclisation: oxytocin (left), (<i>Z</i>)-analogue (middle), and (<i>E</i>)-analogue (right). Collaboration with Prof Eoin Scanlan (Trinity College Dublin).
 </div>

@@ -2,7 +2,7 @@
 layout: page
 title: Chalcogen Bonding
 description: Computational-aided design of enantioselective σ-hole catalysts
-img: assets/img/projects/chalcogen_bonding.png
+img: assets/img/projects/F3CTeCF3_Glass_Pi.png
 importance: 1
 category: work
 related_publications: true
@@ -14,7 +14,7 @@ My contribution to this area has focused on computationally guiding the design o
 
 ## Enantioselective Chalcogen-Bonding Catalysis via Neutral Tellurium–Triazole Donors
 
-In this joint computational–experimental study {% cite massold2026chalcogen %}, a computationally assisted design approach was employed to develop neutral, chiral bidentate tellurium–triazole structures for enantioselective chalcogen-bonding catalysis. DFT calculations were used to screen a series of chiral central backbones for their capacity to enforce cooperative bidentate coordination to Lewis basic substrates within a confined chiral environment. The (*R*,*R*)-1,3-diaminocyclohexane moiety was identified as the optimal chiral spacer on the basis of computed binding geometries and interaction energies. Computational analysis of the catalyst–chloride complex elucidated the key binding features underpinning substrate recognition, providing a structural rationale for the enantioselectivities of up to 78% ee observed experimentally in a Reissert-type benchmark reaction.
+In this joint computational–experimental study {% cite massold2026chalcogen %}, a computationally assisted design approach was employed to develop neutral, chiral bidentate tellurium–triazole structures for enantioselective chalcogen-bonding catalysis. DFT calculations were used to screen a series of chiral central backbones for their capacity to enforce cooperative bidentate coordination to Lewis basic substrates within a confined chiral environment. The (<i>R</i>,<i>R</i>)-1,3-diaminocyclohexane moiety was identified as the optimal chiral spacer on the basis of computed binding geometries and interaction energies. Computational analysis of the catalyst–chloride complex elucidated the key binding features underpinning substrate recognition, providing a structural rationale for the enantioselectivities of up to 78% ee observed experimentally in a Reissert-type benchmark reaction.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
