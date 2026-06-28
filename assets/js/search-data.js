@@ -130,19 +130,28 @@ ninja.data = [{
           section: "News",},{id: "news-preprint-computational-aided-design-of-neutral-chiral-bidentate-tellurium-triazoles-for-enantioselective-chalcogen-bonding-catalysis-uploaded-to-chemrxiv",
           title: 'Preprint “Computational-aided Design of Neutral Chiral Bidentate Tellurium-Triazoles for Enantioselective Chalcogen-Bonding Catalysis” uploaded...',
           description: "",
+          section: "News",},{id: "news-published-neutral-chiral-bidentate-tellurium-triazoles-for-enantioselective-non-covalent-chalcogen-bonding-catalysis-in-nature-communications",
+          title: 'Published “Neutral Chiral Bidentate Tellurium-Triazoles for Enantioselective Non-Covalent Chalcogen-Bonding Catalysis” in Nature Communications!...',
+          description: "",
+          section: "News",},{id: "news-published-synthesis-of-macrocyclic-peptides-via-photochemical-radical-thiol-yne-reaction-in-the-journal-of-the-american-chemical-society",
+          title: 'Published “Synthesis of Macrocyclic Peptides via Photochemical Radical Thiol-yne Reaction” in the Journal...',
+          description: "",
+          section: "News",},{id: "news-awarded-best-presentation-prize-in-the-computational-chemistry-section-at-the-department-of-chemistry-pgr-conference-university-of-manchester",
+          title: 'Awarded Best Presentation Prize in the Computational Chemistry section at the Department of...',
+          description: "",
           section: "News",},{id: "projects-chalcogen-bonding",
           title: 'Chalcogen Bonding',
-          description: "with background image",
+          description: "Computational-aided design of chalcogen-bonding catalysts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-halogen-bonding",
           title: 'Halogen Bonding',
-          description: "a project with a background image and giscus comments",
+          description: "Computational design and characterisation of halogen-bonding catalysts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-mechanistic-elucidation",
           title: 'Mechanistic Elucidation',
-          description: "",
+          description: "Computational characterisation of reactive intermediates and conformational landscapes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
@@ -165,13 +174,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=IJKWhaEAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://jamesobrien2.github.io", "_blank");
         },
       },{
       id: 'light-theme',

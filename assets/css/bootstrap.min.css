@@ -419,10 +419,9 @@ pre code {
 .col-md-2,
 .col-md-6,
 .col-sm,
-.col-sm-12,
+.col-sm-10,
 .col-sm-2,
 .col-sm-3,
-.col-sm-4,
 .col-sm-8,
 .col-sm-9 {
   position: relative;
@@ -460,11 +459,6 @@ pre code {
     flex: 0 0 25%;
     max-width: 25%;
   }
-  .col-sm-4 {
-    -ms-flex: 0 0 33.333333%;
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
-  }
   .col-sm-8 {
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
@@ -475,10 +469,10 @@ pre code {
     flex: 0 0 75%;
     max-width: 75%;
   }
-  .col-sm-12 {
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-    max-width: 100%;
+  .col-sm-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
   }
 }
 @media (min-width: 768px) {
