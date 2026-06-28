@@ -35,12 +35,23 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-{% if site.data.repositories.github_repos %}
+{% if site.data.repositories.github_repos_owned %}
 
-## GitHub Repositories
+## My Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
+  {% for repo in site.data.repositories.github_repos_owned %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if site.data.repositories.github_repos_contributed %}
+
+## Contributions
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos_contributed %}
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>

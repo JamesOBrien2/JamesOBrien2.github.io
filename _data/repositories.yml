@@ -3,8 +3,9 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
+github_repos_owned:
   - JamesOBrien2/StericRender
+
+github_repos_contributed:
   - aligfellow/xyzrender
-  - aligfellow/xyzgraph
   - jonathandip/orca.vim
