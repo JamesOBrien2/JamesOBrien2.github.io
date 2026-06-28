@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - jamesobrien2/StericRender
-  - jamesobrien2/xyzrender_web
-  - jamesobrien2/my_scripts
+  - JamesOBrien2/StericRender
+  - aligfellow/xyzrender
+  - aligfellow/xyzgraph
+  - jonathandip/orca.vim
