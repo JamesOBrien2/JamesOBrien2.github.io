@@ -169,6 +169,12 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
+  .card-img-top {
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+  }
+
   .card-img {
     width: 100%;
     padding-top: 1.25rem;

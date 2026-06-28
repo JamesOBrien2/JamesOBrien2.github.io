@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Halogen Bonding
-description: Computational design and characterisation of σ-hole donor catalysts
+description: Computational design and characterisation of halogen-bonding catalysts
 img: assets/img/projects/F3CI_Glass_Pi.png
 importance: 2
 category: work
@@ -16,7 +16,7 @@ My research in this area has focused on the computational characterisation and d
 
 In this DFT-based study {% cite obrien2024halogen %}, the catalytic potential of a bidentate hypervalent iodine(III) scaffold, previously validated experimentally, was assessed for an indole-based Michael addition. A systematic computational screen of electron-withdrawing and electron-donating substituents (–CF₃, –CH₃, –<i>t</i>Bu, –OH, –OMe, –NO₂, –CN) alongside scaffold modifications including progressive sulfur oxidation was performed. Binding free energies and activation barriers were computed to establish the key electronic and structural parameters governing catalytic efficiency.
 
-Bidentate O-type coordination to the Lewis basic substrate was established as the dominant binding mode, underscoring the importance of ligand geometry in directing substrate activation. Electron-deficient scaffolds consistently afforded stronger binding and reduced activation barriers, confirming the central role of σ-hole depth in catalytic performance. Inductive electron withdrawal was found to be more effective than mesomeric withdrawal in enhancing binding affinity, and progressive sulfur oxidation was demonstrated to markedly improve catalytic activity, providing clear computational design principles for this class of catalyst.
+Bidentate O-type coordination to the Lewis basic substrate was established as the dominant binding mode, underscoring the importance of ligand geometry in directing substrate activation. Electron-deficient scaffolds consistently afforded stronger binding and reduced activation barriers, confirming the central role of σ-hole depth in catalytic performance. Inductive electron withdrawal was found to be more effective than mesomeric withdrawal in enhancing binding affinity, and progressive sulfur oxidation was demonstrated to markedly improve catalytic activity. These findings establish clear computational design principles for σ-hole-based catalysts of this type.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
